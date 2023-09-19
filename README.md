@@ -1,4 +1,4 @@
-Project for Hacknosis: Optimizing Patient Experiences LIVE
+Project for Hacknosis: Optimizing Patient Experiences
 
 ### **⛑️ HealthGuard**
 Your health data, secured and accessible
